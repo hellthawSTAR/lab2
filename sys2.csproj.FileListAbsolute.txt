@@ -1,0 +1,14 @@
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.GeneratedMSBuildEditorConfig.editorconfig
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.AssemblyInfoInputs.cache
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.AssemblyInfo.cs
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.csproj.CoreCompileInputs.cache
+D:\джетбрэйнс\sys2\sys2\bin\Debug\net8.0-windows\sys2.exe
+D:\джетбрэйнс\sys2\sys2\bin\Debug\net8.0-windows\sys2.deps.json
+D:\джетбрэйнс\sys2\sys2\bin\Debug\net8.0-windows\sys2.runtimeconfig.json
+D:\джетбрэйнс\sys2\sys2\bin\Debug\net8.0-windows\sys2.dll
+D:\джетбрэйнс\sys2\sys2\bin\Debug\net8.0-windows\sys2.pdb
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.dll
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\refint\sys2.dll
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.pdb
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\sys2.genruntimeconfig.cache
+D:\джетбрэйнс\sys2\sys2\obj\Debug\net8.0-windows\ref\sys2.dll
